@@ -1,0 +1,6 @@
+ARP RARP - трансляция айпи адреса в макадрес и наоборот (adress resolution protocol)
+DHCP - dinamic host configurations protocol. Точка доступа выдает ip в сети
+ТСР -  протокол контроля передачи данных
+UDP (user datagramm protocol) - протокол полуения данных без проверки данных  
+DNS domane name server
+
